@@ -1,0 +1,5 @@
+name: LobbyBalancer
+main: mineplex.bungee.lobbyBalancer.LobbyBalancer
+version: 1
+author: defek7
+depends: [DynamicServer]

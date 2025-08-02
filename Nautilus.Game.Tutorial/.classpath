@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="var" path="REPO_DIR/Plugins/Libraries/bukkit.jar"/>
+	<classpathentry kind="var" path="REPO_DIR/Plugins/Libraries/craftbukkit.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Nautilus.Core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Nautilus.Core.Server"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
