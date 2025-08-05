@@ -1,0 +1,124 @@
+
+Overview Reviews (3) History Discussion
+Resource Description
+Leave a rating
+Watch
+Add bookmark
+You need to use Craft Bukkit 1.7.10 for the plugins to work!! ( https://prnt.sc/h62kps )
+Make sure you use this Hub world: http://blackspigot.com/resources/old-mineplex-lobby-with-tree-spawn.5449/
+
+Make sure you use this plugin for Punish: http://blackspigot.com/resources/mineplex-punish.6053/
+
+Features:
+
+No Setup Needed!
+Boss Bar
+Scoreboard
+Cosmetics (Mounts, Morphs, etc)
+Animated block text
+Disguise
+Ranks
+Kits
+NPCs
+MOTD with Game Status
+More than 28 Mineplex Games including Events!
+Prefs
+Punish
+Levels
+Much more!
+
+Commands:
+
+/mineplex-core setAdmin (player) - Do this for the first Admin/Owner as this gives you perms.
+/game start <seconds - Starts Game
+/game stop - Stops Game
+/game set <Game Name - Sets the Game
+/updaterank {player} {rank} - Change a users rank (MUST RELOG TO TAKE EFFECT).
+Note 1:This is how you give permissions to players.
+Note 2: To get a list of ranks do, "/updaterank" with no arguments.
+/updatelevel (player) (level) - Updates your level (next to your name)
+/punish - Punish a player
+/disguise <player - Disguises into that player
+/tp - Teleports player
+/youtube - Disables and enables all kits
+/mob - Allows you to add/remove mobs
+/give - Gives you items
+/prefs - Opens the preferences menu
+
+V 3.0 added EVEN MORE COMMANDS via the mineplex core skript plugin
+
+
+
+Ranks:
+
+By default Normal players have Legend and OPs have Owner. Players will have to relog to change between the ranks.
+
+You can assign someone a rank with the /updaterank command.
+
+"/updaterank (rank name) (player)": gives the selected player the selected rank.
+Note 1:This is how you give permissions to players.
+Note 2: To get a list of ranks do, "/updaterank" with no arguments.
+Perm Needed: Admin+
+Like
+Report Edit Warn
+
+    Like 
+
+Reactions: ThinkRusty87
+
+Author
+    InactiveResource
+
+Downloads
+    377
+
+Views
+    515
+
+First release
+    Nov 3, 2017
+
+Last update
+    Nov 3, 2017
+
+Rating
+    3.00 star(s) 2 ratings 
+
+Join the discussion
+More resources from InactiveResource
+
+    Cipher-Bot.ME Files Leaked | Best Botter // Exploit Bungee 2021
+    ✓ Cipher-Bot.ME Files Leaked | Best Botter // Exploit Bungee 2021
+    Cipher-Bot.ME Leak
+
+Latest reviews
+
+    Skep14 1.00 star(s) Aug 12, 2019 Version: 1.0 
+
+I can't use ANY commands, but I can use prefs from the items, no scoreboard, no automated items on join, sucks, please fix
+Report Delete Warn
+Upvote
+0
+Downvote
+
+    Noike 5.00 star(s) Mar 30, 2018 Version: 1.0 
+
+Thanks
+Report Delete Warn
+Upvote
+0
+Downvote
+
+    volcanicer 1.00 star(s) Nov 4, 2017 Version: 1.0 
+
+    Deleted by Hwiggy Nov 10, 2017 
+
+doesn't work
+Report Delete Undelete Warn
+InactiveResource
+InactiveResource In what way does if not work?
+Delete
+Upvote
+0
+Downvote
+Read more…

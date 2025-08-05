@@ -1,0 +1,169 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:app.manifest" caret="917" fromTop="14" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Program.cs" caret="311" fromTop="13" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.Designer.cs" caret="6226" fromTop="14" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="832" fromTop="29" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Server.cs" caret="775" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Program.cs" caret="502" fromTop="13" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1874" fromTop="15" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1874" fromTop="15" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1075" fromTop="23" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1221" fromTop="25" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1367" fromTop="17" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1367" fromTop="21" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="45" fromTop="2" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Server.cs" caret="520" fromTop="10" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1733" fromTop="24" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1820" fromTop="28" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1514" fromTop="18" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1367" fromTop="4" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1163" fromTop="14" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="614" fromTop="9" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="796" fromTop="16" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="871" fromTop="18" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="942" fromTop="21" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1017" fromTop="23" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1163" fromTop="19" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="1309" fromTop="24" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="588" fromTop="19" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.cs" caret="161" fromTop="5" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Form1.Designer.cs" caret="6522" fromTop="21" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Server.cs" caret="2265" fromTop="17" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Server.cs" caret="902" fromTop="9" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Server.cs" caret="1671" fromTop="18" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Server.cs" caret="1671" fromTop="23" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Server.cs" caret="2859" fromTop="27" />
+      <File id="7674049F-5C67-4CD0-AD1F-8F23C718E37B/f:Server.cs" caret="1252" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="9" />
+      <Item value="bool" priority="2" />
+      <Item value="if" priority="6" />
+      <Item value="else" priority="0" />
+      <Item value="button1" priority="3" />
+      <Item value="false" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="void" priority="7" />
+      <Item value="_serverProcess" priority="9" />
+      <Item value="new" priority="9" />
+      <Item value="Process" priority="0" />
+      <Item value="ProcessStartInfo" priority="0" />
+      <Item value="_shouldBeRunning" priority="4" />
+      <Item value="ThreadStart" priority="0" />
+      <Item value="Thread`0" priority="1" />
+      <Item value="_watcherThread" priority="3" />
+      <Item value="Thread" priority="0" />
+      <Item value="while" priority="1" />
+      <Item value="SecureString" priority="0" />
+      <Item value="OnClosing`0" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="FileDialog`0" priority="0" />
+      <Item value="var" priority="2" />
+      <Item value="foreach" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="File`0" priority="1" />
+      <Item value="worldDirectory" priority="1" />
+      <Item value="try" priority="1" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="ex" priority="2" />
+      <Item value="Directory`0" priority="1" />
+      <Item value="commonDirectory" priority="0" />
+      <Item value="file" priority="1" />
+      <Item value="public" priority="7" />
+      <Item value="String`0" priority="1" />
+      <Item value="Server`0" priority="3" />
+      <Item value="_path" priority="1" />
+      <Item value="path" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="Server" priority="1" />
+      <Item value="ParamArrayAttribute`0" priority="0" />
+      <Item value="_hg1" priority="0" />
+      <Item value="PrepFiles`0" priority="0" />
+      <Item value="Start`0" priority="0" />
+      <Item value="this" priority="2" />
+      <Item value="Button`0" priority="1" />
+      <Item value="processInfo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Text" priority="1" />
+      <Item value="Enabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.Process">
+      <Item value="StartInfo" priority="3" />
+      <Item value="Start`0" priority="1" />
+      <Item value="WaitForExit`0" priority="0" />
+      <Item value="HasExited" priority="0" />
+      <Item value="Kill`0" priority="0" />
+      <Item value="StartTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="0" />
+      <Item value="Abort`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.ProcessStartInfo">
+      <Item value="UserName" priority="0" />
+      <Item value="Password" priority="0" />
+      <Item value="Arguments" priority="1" />
+      <Item value="WorkingDirectory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ServerHandler.Form1">
+      <Item value="OnClosing`0" priority="0" />
+      <Item value="Form1_Exit`0" priority="0" />
+      <Item value="Closing" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetDirectories`0" priority="0" />
+      <Item value="GetDirectoryRoot`0" priority="0" />
+      <Item value="GetParent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.DirectoryInfo">
+      <Item value="Delete`0" priority="0" />
+      <Item value="GetFiles`0" priority="0" />
+      <Item value="Exists" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+      <Item value="StackTrace" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Copy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

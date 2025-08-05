@@ -1,0 +1,262 @@
+package mineplex.minecraft.game.classcombat.Skill.Shifter.Forms.Chicken;
+
+import java.util.HashMap;
+
+import org.bukkit.Material;
+import org.bukkit.Sound;
+import org.bukkit.entity.Entity;
+import org.bukkit.entity.Player;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.EventPriority;
+import org.bukkit.event.block.Action;
+import org.bukkit.util.Vector;
+
+import mineplex.minecraft.game.classcombat.Class.IPvpClass.ClassType;
+import mineplex.minecraft.game.core.damage.CustomDamageEvent;
+import mineplex.core.updater.event.UpdateEvent;
+import mineplex.core.updater.UpdateType;
+import mineplex.core.common.util.UtilEnt;
+import mineplex.core.common.util.UtilPlayer;
+import mineplex.core.common.util.F;
+import mineplex.core.common.util.UtilAlg;
+import mineplex.core.common.util.UtilTime;
+import mineplex.minecraft.game.classcombat.Skill.SkillActive;
+import mineplex.minecraft.game.classcombat.Skill.SkillFactory;
+
+public class Flap extends SkillActive
+{
+	private HashMap<Player, Vector> _active = new HashMap<Player, Vector>();
+	private HashMap<Player, Long> _damaged = new HashMap<Player, Long>();
+
+	private long _damageDisableTime = 6000;
+	
+	private double _flap = 0.5;
+	private double _min = 0.3;
+	private double _max = 0.7;
+	
+	private FlapGrab _grab = null;
+	
+	private int _tick = 0;
+
+	public Flap(SkillFactory skills, String name, ClassType classType, SkillType skillType, 
+			int cost, int levels, 
+			int energy, int energyMod, 
+			long recharge, long rechargeMod, boolean rechargeInform, 
+			Material[] itemArray, 
+			Action[] actionArray) 
+	{
+		super(skills, name, classType, skillType,
+				cost, levels,
+				energy, energyMod, 
+				recharge, rechargeMod, rechargeInform, 
+				itemArray,
+				actionArray);
+		
+		_grab = new FlapGrab(this);
+	}
+
+	@Override
+	public boolean CustomCheck(Player player, int level) 
+	{
+		if (player.getLocation().getBlock().getTypeId() == 8 || player.getLocation().getBlock().getTypeId() == 9)
+		{
+			UtilPlayer.message(player, F.main("Skill", "You cannot use " + F.skill(GetName()) + " in water."));
+			return false;
+		}
+
+		//Wings Damaged
+		if (_damaged.containsKey(player))
+		{
+			long damageTime = _damaged.get(player);
+			
+			if (!UtilTime.elapsed(damageTime, _damageDisableTime))
+			{
+				UtilPlayer.message(player, F.main("Skill", "You cannot use " + F.skill(GetName()) + " for " + 
+						F.time(UtilTime.MakeStr(_damageDisableTime - (System.currentTimeMillis() - damageTime))) +  "."));
+				
+				return false;
+			}	
+		}
+
+		return true;
+	}
+
+	@Override
+	public void Skill(Player player, int level) 
+	{
+		//Initial Flap
+		Vector vel = player.getLocation().getDirection();
+		vel.multiply(_flap + ((_flap/10d) * level));
+		vel.add(new Vector(0,0.1,0));
+		
+		//Clutch Penalty
+		if (player.getVehicle() != null)
+			vel.multiply(0.5 + (level * 0.05));
+		
+		_active.put(player, vel);
+
+		//Apply Velocity
+		player.setVelocity(vel);
+
+		//Sound
+		player.getWorld().playSound(player.getLocation(), Sound.BAT_TAKEOFF, 1f, 1f);
+	}
+
+	@EventHandler(priority = EventPriority.HIGH)
+	public void Damage(CustomDamageEvent event)
+	{
+		if (event.GetProjectile() == null)
+			return;
+		
+		if (event.GetDamageePlayer() == null)
+			return;
+
+		if (!GetUsers().containsKey(event.GetDamageePlayer()))
+			return;
+
+		event.AddMod(UtilEnt.getName(event.GetDamagerEntity(true)), "Chicken Weakness", 10, false);
+		
+		_damaged.put(event.GetDamageePlayer(), System.currentTimeMillis());
+	}
+
+	@EventHandler
+	public void Glide(UpdateEvent event) 
+	{
+		if (event.getType() != UpdateType.TICK)
+			return;
+
+		_tick = (_tick + 1)%12;
+		
+		for (Player cur : GetUsers())
+		{
+			if (!_active.containsKey(cur))
+			{
+				GetGrab().Release(cur);
+				continue;
+			}
+				
+			if (!cur.isBlocking())
+			{
+				_active.remove(cur);
+				continue;
+			}
+
+			//Level
+			int level = GetLevel(cur);
+			if (level == 0)			
+			{
+				_active.remove(cur);
+				continue;
+			}
+
+			//Clutch Penalty
+			if (cur.getVehicle() != null)
+			{
+				//Energy
+				if (!Factory.Energy().Use(cur, "Glide", 1.2 - (0.02 * level), true, true))
+				{
+					_active.remove(cur);
+					continue;
+				}
+			}
+			else
+			{
+				//Energy
+				if (!Factory.Energy().Use(cur, "Glide", 0.6 - (0.02 * level), true, true))
+				{
+					_active.remove(cur);
+					continue;
+				}
+			}	
+			
+			//Target to apply velocity to
+			Entity target = cur;
+			if (cur.getVehicle() != null)
+				target = cur.getVehicle();
+
+			//Get Velocity
+			Vector vel = _active.get(cur);
+			
+			if (UtilEnt.isGrounded(target) && vel.getY() < 0)
+			{
+				_active.remove(cur);
+				continue;
+			}
+
+			//Turn 
+			double speed = vel.length();
+			Vector turn = cur.getLocation().getDirection();
+			turn.subtract(UtilAlg.Normalize(UtilAlg.Clone(vel)));
+			turn.multiply(0.1);
+			vel.add(turn);
+			UtilAlg.Normalize(vel).multiply(speed);
+
+			//Gravity
+			vel.setX(vel.getX() * (1 - (vel.getY() / 6)));
+			vel.setZ(vel.getZ() * (1 - (vel.getY() / 6)));
+			if (vel.getY() > 0)		vel.setY(vel.getY() * (1 - (vel.getY() / 6)));
+
+			//Air Friction
+			vel.multiply(0.998);
+
+			double minSpeed = _min + ((_min/10d) * level);
+			double maxSpeed = _max + ((_max/10d) * level);
+
+			//Speed Min
+			if (vel.length() < minSpeed)
+				vel.normalize().multiply(minSpeed);
+
+			//Speed Max
+			if (vel.length() > maxSpeed)
+				vel.normalize().multiply(maxSpeed);
+
+			//Apply Velocity
+			target.setVelocity(vel);
+
+			//Fall Dist
+			target.setFallDistance(0f);
+			
+			//Hit Others (only if not carrying)
+			if (cur.equals(target))
+			{
+				for (Player other : UtilPlayer.getNearby(cur.getLocation(), 2))
+				{
+					if (other.equals(cur))
+						continue;
+					
+					if (!Factory.Relation().CanHurt(cur, other))
+						continue;
+					
+					_grab.Grab(cur, other);
+					
+					if (vel.getY() < 0.1)
+						vel.setY(0.1);
+				}
+			}		
+			
+			//Sound
+			if (_tick == 0)
+				cur.getWorld().playSound(cur.getLocation(), Sound.BAT_TAKEOFF, 0.4f, 1f);
+		}
+	}
+	
+	@EventHandler
+	public void DamageRelease(CustomDamageEvent event) 
+	{
+		GetGrab().DamageRelease(event);
+	}
+	
+	public FlapGrab GetGrab()
+	{
+		return _grab;
+	}
+
+	@Override
+	public void Reset(Player player) 
+	{	
+		_grab.Reset(player);
+		
+		_active.remove(player);
+		_damaged.remove(player);
+	}
+}

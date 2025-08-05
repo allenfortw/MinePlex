@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <project name="loc" default="default" basedir=".">
+	<target name ="Dominate" description="Dominate">
+		<jar jarfile="../bin/Dominate.jar">
+			<fileset dir="../Nautilus.Game.Dominate/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Core.Common/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Minecraft.Game.ClassCombat/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Minecraft.Game.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Game.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Game.Dominate">
+				<include name="*.yml"/>
+			</fileset>
+			
+			<zipfileset src="../Libraries/httpclient-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpcore-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpclient-cache-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpmime-4.2.jar" /> 
+			<zipfileset src="../Libraries/gson-2.2.1.jar" /> 
+			<zipfileset src="../Libraries/commons-logging-1.1.1.jar" /> 
+			<zipfileset src="../Libraries/commons-codec-1.6.jar" />
+		</jar>
+		<copy file="../bin/Dominate.jar" todir="../../Testing/Dominate/plugins"/>
+	</target>
+	<target name ="CaptureThePig" description="CaptureThePig">
+		<jar jarfile="../bin/CaptureThePig.jar">
+			<fileset dir="../Nautilus.Game.CaptureThePig/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Game.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Game.CaptureThePig">
+				<include name="*.yml"/>
+			</fileset>
+			
+			<zipfileset src="../Libraries/httpclient-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpcore-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpclient-cache-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpmime-4.2.jar" /> 
+			<zipfileset src="../Libraries/gson-2.2.1.jar" /> 
+			<zipfileset src="../Libraries/commons-logging-1.1.1.jar" /> 	
+			<zipfileset src="../Libraries/commons-codec-1.6.jar" />
+		</jar>
+		<copy file="../bin/CaptureThePig.jar" todir="../../Testing/CaptureThePig/plugins"/>
+	</target>
+	<target name ="PvP" description="PvP">
+		<jar jarfile="../bin/PvP.jar">
+			<fileset dir="../Nautilus.Game.PvP/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Game.PvP">
+				<include name="*.yml"/>
+			</fileset>
+			
+			<zipfileset src="../Libraries/httpclient-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpcore-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpclient-cache-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpmime-4.2.jar" /> 
+			<zipfileset src="../Libraries/gson-2.2.1.jar" /> 
+			<zipfileset src="../Libraries/commons-logging-1.1.1.jar" /> 	
+			<zipfileset src="../Libraries/commons-codec-1.6.jar" />
+		</jar>
+		<copy file="../bin/PvP.jar" todir="../../Testing/PvP/plugins"/>
+	</target>
+	<target name ="Tutorial" description="Tutorial">
+		<jar jarfile="../bin/Tutorial.jar">
+			<fileset dir="../Nautilus.Game.Tutorial/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Game.Tutorial">
+				<include name="*.yml"/>
+			</fileset>
+			
+			<zipfileset src="../Libraries/httpclient-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpcore-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpclient-cache-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpmime-4.2.jar" /> 
+			<zipfileset src="../Libraries/gson-2.2.1.jar" /> 
+			<zipfileset src="../Libraries/commons-logging-1.1.1.jar" /> 	
+			<zipfileset src="../Libraries/commons-codec-1.6.jar" />
+		</jar>
+		<copy file="../bin/Tutorial.jar" todir="../../Testing/Tutorial/plugins"/>
+	</target>
+	<target name ="Arcade" description="Arcade">
+		<jar jarfile="../bin/Arcade.jar">
+			<fileset dir="../Nautilus.Game.Arcade/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Core.Common/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Minecraft.Game.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			
+			
+			<fileset dir="../Nautilus.Game.Arcade">
+				<include name="*.yml"/>
+			</fileset>
+			
+			<zipfileset src="../Libraries/httpclient-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpcore-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpclient-cache-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpmime-4.2.jar" /> 
+			<zipfileset src="../Libraries/gson-2.2.1.jar" /> 
+			<zipfileset src="../Libraries/commons-logging-1.1.1.jar" /> 	
+			<zipfileset src="../Libraries/commons-codec-1.6.jar" />
+		</jar>
+		<copy file="../bin/Arcade.jar" todir="../../Testing/Arcade/plugins"/>
+	</target>
+	<target name ="Hub" description="Hub">
+		<jar jarfile="../bin/Hub.jar">
+			<fileset dir="../Mineplex.Hub/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Core.Common/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Minecraft.Game.ClassCombat/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Minecraft.Game.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			
+			
+			<fileset dir="../Mineplex.Hub">
+				<include name="*.yml"/>
+			</fileset>
+			
+			<zipfileset src="../Libraries/httpclient-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpcore-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpclient-cache-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpmime-4.2.jar" /> 
+			<zipfileset src="../Libraries/gson-2.2.1.jar" /> 
+			<zipfileset src="../Libraries/commons-logging-1.1.1.jar" /> 
+			<zipfileset src="../Libraries/commons-codec-1.6.jar" />
+		</jar>
+		<copy file="../bin/Hub.jar" todir="../../Testing/Hub/plugins"/>
+	</target>
+	<target name ="MineKart" description="MineKart">
+		<jar jarfile="../bin/MineKart.jar">
+			<fileset dir="../Nautilus.Game.MineKart/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Nautilus.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Core.Common/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			<fileset dir="../Mineplex.Minecraft.Game.Core/bin">
+				<include name="**/*.class"/>
+			</fileset>
+			
+			<fileset dir="../Nautilus.Game.MineKart">
+				<include name="*.yml"/>
+			</fileset>
+			
+			<zipfileset src="../Libraries/httpclient-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpcore-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpclient-cache-4.2.jar" /> 
+			<zipfileset src="../Libraries/httpmime-4.2.jar" /> 
+			<zipfileset src="../Libraries/gson-2.2.1.jar" /> 
+			<zipfileset src="../Libraries/commons-logging-1.1.1.jar" /> 	
+			<zipfileset src="../Libraries/commons-codec-1.6.jar" />
+		</jar>
+		<copy file="../bin/MineKart.jar" todir="../../Testing/MineKart/plugins"/>
+	</target>
+	<target name="NautilusCraftBukkit2" description="NautilusCraftBukkit2">
+		<mkdir dir="../bin/craftbukkit_temp" />
+		<delete file="../bin/craftbukkit.jar" />
+		<unzip src="../Libraries/craftbukkit_official.jar" dest="../bin/craftbukkit_temp" />
+		<touch datetime="01/31/1981 01:00:00 AM">
+			<fileset dir="../bin/craftbukkit_temp"/>
+		</touch>
+		<copy todir="../bin/craftbukkit_temp" overwrite="true">
+			<fileset dir="../Nautilus.Core.CraftBukkit/bin">
+				<include name="**/*.class"/>
+			</fileset>
+		</copy>
+		
+		<jar jarfile="../bin/craftbukkit.jar">
+			<fileset dir="../bin/craftbukkit_temp" />
+			<manifest>
+				<attribute name="Main-Class" value="org.bukkit.craftbukkit.Main" />
+			</manifest>
+			<zipfileset src="../Libraries/jopt-simple-3.2.jar" />
+		</jar>
+		<copy file="../bin/craftbukkit.jar" todir="../Libraries/"/>
+		<delete dir="../bin/craftbukkit_temp" />
+	</target>
+
+    </project>
