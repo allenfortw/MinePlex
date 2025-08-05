@@ -1,0 +1,18 @@
+[
+  {
+    "uuid": "92f4332c-3790-429f-95d0-c8788d2d56b3",
+    "name": "Jarvis",
+    "created": "2017-03-26 05:49:35 -0500",
+    "source": "Cats3122",
+    "expires": "forever",
+    "reason": "Network Banned."
+  },
+  {
+    "uuid": "3314b3ef-a329-483f-832b-95aa47b5bed4",
+    "name": "shot",
+    "created": "2017-04-01 14:50:32 -0500",
+    "source": "Cats3122",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

@@ -1,0 +1,52 @@
+ip_forward: true
+network_compression_threshold: 256
+stats: c90cee11-c4e5-438e-8008-2ff448002cda
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  - pingplayer.ping
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - pingplayer.*
+  - bungeecord.command.find
+  - bungeecord.command.send
+  - bungeecord.command.ip
+  - bungeecord.command.*
+  - bungeecord.command.reload
+groups:
+  BlackSpigotMC:
+  - admin
+servers:
+  Lobby-1:
+    motd: '                §b§l§m   §8§l§m[ §r §9§lMinePlex§r §f§lGames§r §8§l§m ]§b§l§m   §r'
+    address: localhost:25566
+    restricted: false
+  Test-1:
+    motd: 'no'
+    address: localhost:25567
+    restricted: false
+timeout: 30000
+listeners:
+- query_port: 25565
+  motd: taco
+  priorities:
+  - Lobby-1
+  - Test-1
+  bind_local_address: true
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  host: localhost:25565
+  forced_hosts:
+    127.0.0.1: Hub
+  max_players: 120
+  tab_size: 80
+  ping_passthrough: false
+  force_default_server: true
+player_limit: -1
+online_mode: true
+log_commands: false
+disabled_commands:
+- disabledcommandhere
+connection_throttle: 4000

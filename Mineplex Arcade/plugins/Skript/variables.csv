@@ -1,0 +1,30 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.2-Fixes-V8b
+
+indev, boolean, 01
+mineplex.level.cats3122, string, 8006C2A763313030
+mineplex.level.dyu, string, 8004C2A73735
+mineplex.news.allow, boolean, 01
+mineplex.news.int, boolean, 01
+mineplex.news.line1, string, 801FC2A762C2A76C4D696E65706C657820436F72652052656D616B652076312E35
+mineplex.news.line2, string, 802EC2A761C2A76C46756C6C2050756E6973682047554921202877697468206163746976652062616E2F6D7574657329
+mineplex.news.line3, string, 8013C2A733C2A76C455445524E414C2052414E4B21
+mineplex.news.line4, string, 801BC2A763C2A76C4E657773206F6E206A6F696E2120282F6E65777329
+mineplex.overidechat, boolean, 01
+mineplex.rank.cats3122, string, 800CC2A734C2A76C41444D494E20
+mineplex.rank.dyu, string, 800EC2A733C2A76C455445524E414C20
+mineplex.vanish.cats3122, boolean, 00
+mineplex.vanish.dyu, boolean, 00
+skperms::players::1, string, 8003647975
+skperms::players::2, string, 80084361747333313232
+skperms::player::cats3122::permissions::1, string, 80106D696E65706C65782E747261696E6565
+skperms::player::cats3122::permissions::2, string, 800F6D696E65706C65782E6C6567656E64
+skperms::player::cats3122::permissions::3, string, 800C6D696E65706C65782E6D6F64
+skperms::player::cats3122::permissions::4, string, 800E6D696E65706C65782E73726D6F64
+skperms::player::cats3122::permissions::5, string, 800E6D696E65706C65782E61646D696E
+skperms::player::cats3122::permissions::6, string, 80106D696E65706C65782E6275696C646572
+skperms::player::dyu::permissions::1, string, 800F6D696E65706C65782E6C6567656E64
+skperms::player::dyu::permissions::2, string, 800E6D696E65706C65782E6A72646576
+

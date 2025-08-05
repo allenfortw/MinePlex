@@ -1,0 +1,961 @@
+[11:22:16] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[11:22:16] [Server thread/INFO]: Loading properties
+[11:22:16] [Server thread/INFO]: Default game type: SURVIVAL
+[11:22:16] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[11:22:16] [Server thread/INFO]: Debug logging is disabled
+[11:22:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:22:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:22:16] [Server thread/INFO]: Generating keypair
+[11:22:16] [Server thread/INFO]: Starting Minecraft server on *:25566
+[11:22:16] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[11:22:16] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.12.0-SNAPSHOT-sMD5NET-b793
+[11:22:16] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[11:22:16] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[11:22:16] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.7.10
+[11:22:16] [Server thread/INFO]: [Hub] Loading Hub v0.1
+[11:22:16] [Server thread/INFO]: [Punish] Loading Punish v0.1
+[11:22:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:22:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:22:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:22:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:22:16] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[11:22:16] [Server thread/INFO]: Preparing level "world"
+[11:22:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:22:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:22:16] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[11:22:16] [Server thread/INFO]: Clear tick list: false
+[11:22:16] [Server thread/INFO]: View Distance: 10
+[11:22:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[11:22:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:22:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:22:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:22:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:22:16] [Server thread/INFO]: Anti X-Ray: false
+[11:22:16] [Server thread/INFO]: 	Engine Mode: 1
+[11:22:16] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[11:22:16] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[11:22:16] [Server thread/INFO]: Mob Spawn Range: 4
+[11:22:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:22:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:22:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:22:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:22:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:22:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:22:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:22:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:22:16] [Server thread/INFO]: Alternative Hopper Ticking: false
+[11:22:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[11:22:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:22:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[11:22:16] [Server thread/INFO]: Max TNT Explosions: 100
+[11:22:16] [Server thread/INFO]: Structure Info Saving: true
+[11:22:16] [Server thread/INFO]: Random Lighting Updates: false
+[11:22:16] [Server thread/INFO]: Sending up to 5 chunks per packet
+[11:22:16] [Server thread/INFO]: Max Entity Collisions: 8
+[11:22:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[11:22:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/23, l='world', x=5.13, y=-4.69, z=-16.75] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 5.125,-16.75 (chunk 0,-2) but was stored in chunk -2,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/24, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk -2,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/25, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk -2,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/29, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk -2,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/30, l='world', x=4.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 4.0,-32.0 (chunk 0,-2) but was stored in chunk -2,0
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/31, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk -2,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/33, l='world', x=5.13, y=-4.69, z=-16.75] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 5.125,-16.75 (chunk 0,-2) but was stored in chunk -2,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/133, l='world', x=0.09, y=-4.69, z=-25.44] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.09375,-25.4375 (chunk 0,-2) but was stored in chunk -1,-2
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/134, l='world', x=0.09, y=-4.69, z=-25.44] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.09375,-25.4375 (chunk 0,-2) but was stored in chunk -1,-2
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/144, l='world', x=0.00, y=-4.69, z=-31.38] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-31.375 (chunk 0,-2) but was stored in chunk -1,-1
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/146, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk -1,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/147, l='world', x=0.00, y=-4.69, z=-31.38] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-31.375 (chunk 0,-2) but was stored in chunk -1,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/148, l='world', x=-12.38, y=-4.69, z=-16.41] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -12.375,-16.40625 (chunk -1,-2) but was stored in chunk -1,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/150, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk -1,-1
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/151, l='world', x=-12.38, y=-4.69, z=-16.41] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -12.375,-16.40625 (chunk -1,-2) but was stored in chunk -1,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/155, l='world', x=-0.03, y=-4.69, z=-30.69] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -0.03125,-30.6875 (chunk -1,-2) but was stored in chunk -1,-1
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/156, l='world', x=-0.03, y=-4.69, z=-30.69] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -0.03125,-30.6875 (chunk -1,-2) but was stored in chunk -1,-1
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/161, l='world', x=-8.00, y=-4.69, z=67.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -8.0,67.0 (chunk -1,4) but was stored in chunk -1,1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/162, l='world', x=-8.00, y=-4.69, z=67.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -8.0,67.0 (chunk -1,4) but was stored in chunk -1,1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/166, l='world', x=45.00, y=-4.69, z=59.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 45.0,59.0 (chunk 2,3) but was stored in chunk -1,6
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/221, l='world', x=-6.53, y=-4.69, z=6.28] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -6.53125,6.28125 (chunk -1,0) but was stored in chunk 0,-2
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/224, l='world', x=-6.53, y=-4.69, z=6.28] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -6.53125,6.28125 (chunk -1,0) but was stored in chunk 0,-2
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/232, l='world', x=0.28, y=-4.69, z=-30.16] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.28125,-30.15625 (chunk 0,-2) but was stored in chunk 0,-1
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/234, l='world', x=0.28, y=-4.69, z=-30.16] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.28125,-30.15625 (chunk 0,-2) but was stored in chunk 0,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/236, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk 0,-1
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/237, l='world', x=55.00, y=-4.69, z=37.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 55.0,37.0 (chunk 3,2) but was stored in chunk 0,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/239, l='world', x=52.00, y=-4.69, z=43.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 52.0,43.0 (chunk 3,2) but was stored in chunk 0,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/241, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk 0,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/242, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk 0,-1
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/243, l='world', x=58.00, y=-4.69, z=34.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 58.0,34.0 (chunk 3,2) but was stored in chunk 0,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/244, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk 0,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/250, l='world', x=-8.56, y=-4.69, z=-10.41] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -8.5625,-10.40625 (chunk -1,-1) but was stored in chunk 0,1
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/251, l='world', x=-8.00, y=-4.69, z=67.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -8.0,67.0 (chunk -1,4) but was stored in chunk 0,1
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/252, l='world', x=-8.56, y=-4.69, z=-10.41] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -8.5625,-10.40625 (chunk -1,-1) but was stored in chunk 0,1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/253, l='world', x=-8.00, y=-4.69, z=67.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -8.0,67.0 (chunk -1,4) but was stored in chunk 0,1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/254, l='world', x=-8.00, y=-4.69, z=67.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -8.0,67.0 (chunk -1,4) but was stored in chunk 0,1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/260, l='world', x=26.50, y=-4.69, z=-34.50] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 26.5,-34.5 (chunk 1,-3) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/261, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/262, l='world', x=26.50, y=-4.69, z=-34.50] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 26.5,-34.5 (chunk 1,-3) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/263, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/264, l='world', x=8.34, y=-4.69, z=-18.53] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 8.34375,-18.53125 (chunk 0,-2) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/265, l='world', x=8.34, y=-4.69, z=-18.53] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 8.34375,-18.53125 (chunk 0,-2) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/266, l='world', x=0.00, y=-4.69, z=-32.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.0,-32.0 (chunk 0,-2) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/303, l='world', x=67.00, y=-4.69, z=25.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 67.0,25.0 (chunk 4,1) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/306, l='world', x=0.03, y=-4.69, z=-31.63] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.03125,-31.625 (chunk 0,-2) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/307, l='world', x=0.03, y=-4.69, z=-31.63] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 0.03125,-31.625 (chunk 0,-2) but was stored in chunk 1,-2
+[11:22:17] [Server thread/WARN]: Skipping Entity with id Guardian
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/316, l='world', x=68.00, y=-4.69, z=-5.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 68.0,-5.0 (chunk 4,-1) but was stored in chunk 1,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/321, l='world', x=4.19, y=-4.69, z=-13.66] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 4.1875,-13.65625 (chunk 0,-1) but was stored in chunk 1,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/322, l='world', x=4.19, y=-4.69, z=-13.66] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 4.1875,-13.65625 (chunk 0,-1) but was stored in chunk 1,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/323, l='world', x=-17.00, y=-4.69, z=56.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -17.0,56.0 (chunk -2,3) but was stored in chunk 1,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/324, l='world', x=-25.00, y=-4.69, z=52.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -25.0,52.0 (chunk -2,3) but was stored in chunk 1,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/325, l='world', x=67.00, y=-4.69, z=25.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 67.0,25.0 (chunk 4,1) but was stored in chunk 1,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/326, l='world', x=67.00, y=-4.69, z=25.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 67.0,25.0 (chunk 4,1) but was stored in chunk 1,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/327, l='world', x=70.00, y=-4.69, z=53.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 70.0,53.0 (chunk 4,3) but was stored in chunk 1,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/338, l='world', x=4.97, y=-4.69, z=-4.16] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 4.96875,-4.15625 (chunk 0,-1) but was stored in chunk 2,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/339, l='world', x=4.97, y=-4.69, z=-4.16] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 4.96875,-4.15625 (chunk 0,-1) but was stored in chunk 2,-1
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityItem['item.tile.stone'/342, l='world', x=33.13, y=72.53, z=-18.38] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 33.125,-18.375 (chunk 2,-2) but was stored in chunk 2,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntityEnderPearl['entity.ThrownEnderpearl.name'/343, l='world', x=29.94, y=72.44, z=-18.44] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 29.9375,-18.4375 (chunk 1,-2) but was stored in chunk 2,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntityEnderPearl['entity.ThrownEnderpearl.name'/347, l='world', x=29.91, y=72.50, z=-18.44] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 29.90625,-18.4375 (chunk 1,-2) but was stored in chunk 2,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/354, l='world', x=84.00, y=-4.69, z=-15.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 84.0,-15.0 (chunk 5,-1) but was stored in chunk 2,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/369, l='world', x=43.00, y=-4.69, z=-46.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 43.0,-46.0 (chunk 2,-3) but was stored in chunk 3,-6
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/378, l='world', x=35.81, y=-4.69, z=-6.38] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 35.8125,-6.375 (chunk 2,-1) but was stored in chunk 3,-1
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/379, l='world', x=35.81, y=-4.69, z=-6.38] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 35.8125,-6.375 (chunk 2,-1) but was stored in chunk 3,-1
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/384, l='world', x=-47.69, y=-4.69, z=-5.84] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -47.6875,-5.84375 (chunk -3,-1) but was stored in chunk 3,3
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/385, l='world', x=-47.69, y=-4.69, z=-5.84] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at -47.6875,-5.84375 (chunk -3,-1) but was stored in chunk 3,3
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/400, l='world', x=50.00, y=-4.69, z=-56.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 50.0,-56.0 (chunk 3,-4) but was stored in chunk 6,-3
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/403, l='world', x=138.41, y=-4.69, z=-67.56] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 138.40625,-67.5625 (chunk 8,-5) but was stored in chunk 7,-8
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/404, l='world', x=138.41, y=-4.69, z=-67.56] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 138.40625,-67.5625 (chunk 8,-5) but was stored in chunk 7,-8
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/405, l='world', x=158.00, y=-4.69, z=-72.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 158.0,-72.0 (chunk 9,-5) but was stored in chunk 7,-3
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.attackDamage'
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/408, l='world', x=72.00, y=-4.69, z=-77.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 72.0,-77.0 (chunk 4,-5) but was stored in chunk 7,-2
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/409, l='world', x=90.00, y=-4.69, z=-77.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 90.0,-77.0 (chunk 5,-5) but was stored in chunk 7,-2
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/410, l='world', x=85.00, y=-4.69, z=51.00] in world 'world'!
+[11:22:17] [Server thread/WARN]: Entity is at 85.0,51.0 (chunk 5,3) but was stored in chunk 7,0
+[11:22:17] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:17] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.12.0-SNAPSHOT-sMD5NET-b793
+[11:22:17] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+[11:22:17] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[11:22:17] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[11:22:17] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[11:22:17] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[11:22:17] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[11:22:17] [Server thread/INFO]: [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+[11:22:17] [Server thread/INFO]: [Hub] Enabling Hub v0.1
+[11:22:17] [Server thread/INFO]: §9Client Manager> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Client Manager> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9ItemStack Factory> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9ItemStack Factory> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Recharge> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Recharge> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Visibility Manager> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Visibility Manager> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Give Factory> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Give Factory> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Block Restore> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Block Restore> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Server Configuration> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Server Configuration> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9PacketHandler> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9PacketHandler> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Disguise Manager> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Disguise Manager> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Preferences> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Preferences> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Creature> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Creature> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Pet Manager> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Pet Manager> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9AntiHack> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9AntiHack> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Fly Detector> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Fly Detector> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Idle Detector> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Idle Detector> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Speed Detector> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Speed Detector> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Reach Detector> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Reach Detector> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Condition Manager> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Condition Manager> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Hub Manager> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Hub Manager> §7Enabled in 0.0 Seconds.
+[11:22:17] [Server thread/INFO]: §9Text Creator> §7Initializing...
+[11:22:17] [Server thread/INFO]: §9Text Creator> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Parkour> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Parkour> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9World Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9World Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Double Jump> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Double Jump> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9News Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9News Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Mount Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Mount Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Throw> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Throw> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Gadget Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Gadget Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Cosmetic Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Cosmetic Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Tutorial Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Tutorial Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Hub_JoinTutorial> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Hub_JoinTutorial> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Hub_PartyTutorial> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Hub_PartyTutorial> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Visibility Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Visibility Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Forcefield> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Forcefield> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Notification Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Notification Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Queue Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Queue Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Stacker> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Stacker> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Throw> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Throw> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Server Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Server Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Chat> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Chat> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Message> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Message> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Memory Fix> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Memory Fix> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Tablist Fix> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Tablist Fix> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9April Fools> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9April Fools> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Combat> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Combat> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Throw> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Throw> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Condition Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Condition Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Damage Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Damage Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Fire> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Fire> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Teleport> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Teleport> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Energy> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Energy> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Item Factory> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Item Factory> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Movement> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Movement> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Skill Factory> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Skill Factory> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Class Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Class Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: §9Class Shop Manager> §7Initializing...
+[11:22:18] [Server thread/INFO]: §9Class Shop Manager> §7Enabled in 0.0 Seconds.
+[11:22:18] [Server thread/INFO]: [Punish] Enabling Punish v0.1
+[11:22:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:22:18] [Server thread/INFO]: Done (1.604s)! For help, type "help" or "?"
+[11:22:18] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[11:22:18] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[11:22:48] [User Authenticator #1/ERROR]: Could not pass event AsyncPlayerPreLoginEvent to Punish v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:496) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadPlayerLookupUUID.fireLoginEvents(ThreadPlayerLookupUUID.java:79) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadPlayerLookupUUID.run(ThreadPlayerLookupUUID.java:32) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException: Name is null
+	at java.lang.Enum.valueOf(Unknown Source) ~[?:1.8.0_131]
+	at punish.Category.valueOf(Category.java:1) ~[?:?]
+	at punish.Punish.LoadCilent(Punish.java:116) ~[?:?]
+	at punish.Punish.PlayerLogin(Punish.java:180) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 5 more
+[11:22:48] [User Authenticator #1/INFO]: UUID of player _Infinityy is fc7bb3fd-d1d0-46f5-ab05-3bcde0335982
+[11:22:48] [Server thread/INFO]: _Infinityy[/127.0.0.1:54991] logged in with entity id 420 at ([world] 0.5, 84.0, 0.5)
+[11:22:48] [Server thread/WARN]: Wrong location for EntitySquid['Squid'/445, l='world', x=158.00, y=-4.69, z=-72.00] in world 'world'!
+[11:22:48] [Server thread/WARN]: Entity is at 158.0,-72.0 (chunk 9,-5) but was stored in chunk 7,-3
+[11:22:48] [Server thread/WARN]: Wrong location for EntityWolf['Wolf'/450, l='world', x=138.41, y=-4.69, z=-67.56] in world 'world'!
+[11:22:48] [Server thread/WARN]: Entity is at 138.40625,-67.5625 (chunk 8,-5) but was stored in chunk 7,-8
+[11:22:48] [Server thread/WARN]: Wrong location for EntitySlime['Slime'/451, l='world', x=138.41, y=-4.69, z=-67.56] in world 'world'!
+[11:22:48] [Server thread/WARN]: Entity is at 138.40625,-67.5625 (chunk 8,-5) but was stored in chunk 7,-8
+[11:22:48] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:22:53] [Server thread/INFO]: _Infinityy issued server command: /gamemode c
+[11:23:08] [Server thread/INFO]: CONSOLE: Opped _Infinityy[m
+[11:23:11] [Server thread/INFO]: _Infinityy issued server command: /gamemode c
+[11:23:11] [Server thread/INFO]: _Infinityy: Set own game mode to CREATIVE mode[m
+[11:23:21] [Server thread/INFO]: _Infinityy issued server command: /setworldspawn'
+[11:23:23] [Server thread/INFO]: _Infinityy issued server command: /setworldspawn
+[11:23:23] [Server thread/INFO]: _Infinityy: Set world world's spawnpoint to (0, 76, -32)[m
+[11:23:37] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:37] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:38] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:38] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:38] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:38] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:38] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:38] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:38] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:39] [Async Chat Thread - #0/ERROR]: Could not pass event AsyncPlayerChatEvent to Punish v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:496) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.chat(PlayerConnection.java:969) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:909) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat.a(PacketPlayInChat.java:28) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInChat$1.run(PacketPlayInChat.java:59) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_131]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_131]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_131]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
+Caused by: java.lang.NullPointerException: Name is null
+	at java.lang.Enum.valueOf(Unknown Source) ~[?:1.8.0_131]
+	at punish.Category.valueOf(Category.java:1) ~[?:?]
+	at punish.Punish.LoadCilent(Punish.java:116) ~[?:?]
+	at punish.Punish.PunishChatEvent(Punish.java:162) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 12 more
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:40] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping Entity with id ArmorStand
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner
+[11:23:41] [Server thread/WARN]: Skipping BlockEntity with id Banner

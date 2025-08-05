@@ -1,0 +1,176 @@
+17-04-01 22:49:12 [INFO] Logger started.
+17-04-01 22:49:12 [INFO] [NoCheatPlus] Logging system initialized.
+17-04-01 22:49:12 [INFO] [NoCheatPlus] Detected Minecraft version: 1.7.10
+17-04-01 22:49:13 [INFO] [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+17-04-01 22:49:13 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+17-04-01 22:49:13 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+17-04-01 22:49:13 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+17-04-01 22:49:13 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+17-04-01 22:49:13 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+17-04-01 22:49:13 [INFO] [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+17-04-01 22:49:14 [INFO] [NoCheatPlus] Post-enable running...
+17-04-01 22:49:14 [INFO] [NoCheatPlus] Post-enable finished.
+17-04-01 22:49:14 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10)
+(detected: 1.7.10)
+#### NoCheatPlus ####
+Plugin: 3.12.0-SNAPSHOT-sMD5NET-b793
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+17-04-01 22:53:36 [INFO] Logger started.
+17-04-01 22:53:36 [INFO] [NoCheatPlus] Logging system initialized.
+17-04-01 22:53:36 [INFO] [NoCheatPlus] Detected Minecraft version: 1.7.10
+17-04-01 22:53:36 [INFO] [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+17-04-01 22:53:36 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+17-04-01 22:53:36 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+17-04-01 22:53:36 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+17-04-01 22:53:37 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+17-04-01 22:53:37 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+17-04-01 22:53:37 [INFO] [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+17-04-01 22:53:38 [INFO] [NoCheatPlus] Post-enable running...
+17-04-01 22:53:38 [INFO] [NoCheatPlus] Post-enable finished.
+17-04-01 22:53:38 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10)
+(detected: 1.7.10)
+#### NoCheatPlus ####
+Plugin: 3.12.0-SNAPSHOT-sMD5NET-b793
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+17-04-01 23:04:15 [INFO] Logger started.
+17-04-01 23:04:15 [INFO] [NoCheatPlus] Logging system initialized.
+17-04-01 23:04:15 [INFO] [NoCheatPlus] Detected Minecraft version: 1.7.10
+17-04-01 23:04:15 [INFO] [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+17-04-01 23:04:15 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+17-04-01 23:04:15 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+17-04-01 23:04:15 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+17-04-01 23:04:15 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+17-04-01 23:04:15 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+17-04-01 23:04:15 [INFO] [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+17-04-01 23:04:17 [INFO] [NoCheatPlus] Post-enable running...
+17-04-01 23:04:17 [INFO] [NoCheatPlus] Post-enable finished.
+17-04-01 23:04:17 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10)
+(detected: 1.7.10)
+#### NoCheatPlus ####
+Plugin: 3.12.0-SNAPSHOT-sMD5NET-b793
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+17-04-01 23:05:35 [INFO] Logger started.
+17-04-01 23:05:35 [INFO] [NoCheatPlus] Logging system initialized.
+17-04-01 23:05:35 [INFO] [NoCheatPlus] Detected Minecraft version: 1.7.10
+17-04-01 23:05:35 [INFO] [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+17-04-01 23:05:35 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+17-04-01 23:05:35 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+17-04-01 23:05:35 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+17-04-01 23:05:35 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+17-04-01 23:05:35 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+17-04-01 23:05:35 [INFO] [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+17-04-01 23:05:37 [INFO] [NoCheatPlus] Post-enable running...
+17-04-01 23:05:37 [INFO] [NoCheatPlus] Post-enable finished.
+17-04-01 23:05:37 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10)
+(detected: 1.7.10)
+#### NoCheatPlus ####
+Plugin: 3.12.0-SNAPSHOT-sMD5NET-b793
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+17-04-02 00:31:57 [INFO] Logger started.
+17-04-02 00:31:57 [INFO] [NoCheatPlus] Logging system initialized.
+17-04-02 00:31:57 [INFO] [NoCheatPlus] Detected Minecraft version: 1.7.10
+17-04-02 00:31:58 [INFO] [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+17-04-02 00:31:59 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+17-04-02 00:31:59 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+17-04-02 00:31:59 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+17-04-02 00:31:59 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+17-04-02 00:31:59 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+17-04-02 00:31:59 [INFO] [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+17-04-02 00:32:02 [INFO] [NoCheatPlus] Post-enable running...
+17-04-02 00:32:02 [INFO] [NoCheatPlus] Post-enable finished.
+17-04-02 00:32:02 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10)
+(detected: 1.7.10)
+#### NoCheatPlus ####
+Plugin: 3.12.0-SNAPSHOT-sMD5NET-b793
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+17-04-02 00:52:41 [INFO] Logger started.
+17-04-02 00:52:41 [INFO] [NoCheatPlus] Logging system initialized.
+17-04-02 00:52:41 [INFO] [NoCheatPlus] Detected Minecraft version: 1.7.10
+17-04-02 00:52:41 [INFO] [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+17-04-02 00:52:41 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+17-04-02 00:52:41 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+17-04-02 00:52:41 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+17-04-02 00:52:42 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+17-04-02 00:52:42 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+17-04-02 00:52:42 [INFO] [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+17-04-02 00:52:43 [INFO] [NoCheatPlus] Post-enable running...
+17-04-02 00:52:43 [INFO] [NoCheatPlus] Post-enable finished.
+17-04-02 00:52:43 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10)
+(detected: 1.7.10)
+#### NoCheatPlus ####
+Plugin: 3.12.0-SNAPSHOT-sMD5NET-b793
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+17-06-12 13:51:22 [INFO] Logger started.
+17-06-12 13:51:22 [INFO] [NoCheatPlus] Logging system initialized.
+17-06-12 13:51:22 [INFO] [NoCheatPlus] Detected Minecraft version: 1.7.10
+17-06-12 13:51:22 [INFO] [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+17-06-12 13:51:22 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+17-06-12 13:51:22 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+17-06-12 13:51:22 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+17-06-12 13:51:22 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+17-06-12 13:51:22 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+17-06-12 13:51:22 [INFO] [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+17-06-12 13:51:23 [INFO] [NoCheatPlus] Post-enable running...
+17-06-12 13:51:23 [INFO] [NoCheatPlus] Post-enable finished.
+17-06-12 13:51:23 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10)
+(detected: 1.7.10)
+#### NoCheatPlus ####
+Plugin: 3.12.0-SNAPSHOT-sMD5NET-b793
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg
+17-06-20 11:22:16 [INFO] Logger started.
+17-06-20 11:22:16 [INFO] [NoCheatPlus] Logging system initialized.
+17-06-20 11:22:16 [INFO] [NoCheatPlus] Detected Minecraft version: 1.7.10
+17-06-20 11:22:17 [INFO] [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+17-06-20 11:22:17 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+17-06-20 11:22:17 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+17-06-20 11:22:17 [INFO] [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+17-06-20 11:22:17 [INFO] [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+17-06-20 11:22:17 [INFO] [NoCheatPlus] Packet level access: ProtocolLib is not available.
+17-06-20 11:22:17 [INFO] [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+17-06-20 11:22:18 [INFO] [NoCheatPlus] Post-enable running...
+17-06-20 11:22:18 [INFO] [NoCheatPlus] Post-enable finished.
+17-06-20 11:22:18 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10)
+(detected: 1.7.10)
+#### NoCheatPlus ####
+Plugin: 3.12.0-SNAPSHOT-sMD5NET-b793
+MCAccess: 1.7.10 / CB3100
+Features:
+  blocks: BlocksMC1_4(base) | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2
+  checks: FastConsume | Gutenberg

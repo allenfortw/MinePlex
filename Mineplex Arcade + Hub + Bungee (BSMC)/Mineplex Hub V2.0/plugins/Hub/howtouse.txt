@@ -1,0 +1,3 @@
+#RANKS YOU CAN USE /updaterank <player> <rank> WITH#
+####ADMIN // YOUTUBE // TWITCH // MODERATOR // HELPER // ALL // MAPDEV // SNR_MODERATOR // JNR_DEV // DEVELOPER###
+#To set a player as a donor rank add in this config as ULTRA // HERO // LEGEND#

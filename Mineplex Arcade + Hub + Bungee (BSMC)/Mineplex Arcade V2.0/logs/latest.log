@@ -1,0 +1,739 @@
+[13:48:20] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[13:48:20] [Server thread/INFO]: Loading properties
+[13:48:20] [Server thread/INFO]: Default game type: SURVIVAL
+[13:48:20] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[13:48:20] [Server thread/INFO]: Debug logging is disabled
+[13:48:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:48:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:48:20] [Server thread/INFO]: Generating keypair
+[13:48:20] [Server thread/INFO]: Starting Minecraft server on *:25567
+[13:48:20] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:48:20] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.12.0-SNAPSHOT-sMD5NET-b793
+[13:48:20] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.7.10
+[13:48:21] [Server thread/INFO]: [Punish] Loading Punish v0.1
+[13:48:21] [Server thread/INFO]: [Arcade] Loading Arcade v0.1
+[13:48:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:48:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:48:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:48:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:48:21] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:48:21] [Server thread/INFO]: Preparing level "world"
+[13:48:21] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:48:21] [Server thread/INFO]: View Distance: 10
+[13:48:21] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:48:21] [Server thread/INFO]: Clear tick list: false
+[13:48:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:48:21] [Server thread/INFO]: Anti X-Ray: false
+[13:48:21] [Server thread/INFO]: 	Engine Mode: 1
+[13:48:21] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:48:21] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:48:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:48:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:48:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:48:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:48:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:48:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:48:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:48:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:48:21] [Server thread/INFO]: Mob Spawn Range: 4
+[13:48:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:48:21] [Server thread/INFO]: Alternative Hopper Ticking: false
+[13:48:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:48:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:48:21] [Server thread/INFO]: Max TNT Explosions: 100
+[13:48:21] [Server thread/INFO]: Random Lighting Updates: false
+[13:48:21] [Server thread/INFO]: Sending up to 5 chunks per packet
+[13:48:21] [Server thread/INFO]: Structure Info Saving: true
+[13:48:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:48:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:48:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:48:21] [Server thread/INFO]: Max Entity Collisions: 8
+[13:48:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:48:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:48:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:48:21] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.12.0-SNAPSHOT-sMD5NET-b793
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+[13:48:21] [Server thread/INFO]: [Punish] Enabling Punish v0.1
+[13:48:21] [Server thread/INFO]: [Arcade] Enabling Arcade v0.1
+[13:48:21] [Server thread/INFO]: Deleted Old Game: Game244_Survival Games_SurvivalGames_Aztec Island
+[13:48:21] [Server thread/INFO]: §9Client Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Client Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9ItemStack Factory> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9ItemStack Factory> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Recharge> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Recharge> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Visibility Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Visibility Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Give Factory> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Give Factory> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Server Configuration> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Server Configuration> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Preferences> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Preferences> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Creature> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Creature> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Leaderboard Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Leaderboard Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Teleport> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Teleport> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9PacketHandler> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9PacketHandler> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Disguise Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Disguise Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Combat> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Combat> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Damage Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Damage Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9AntiHack> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9AntiHack> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Fly Detector> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Fly Detector> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Idle Detector> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Idle Detector> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Speed Detector> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Speed Detector> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Reach Detector> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Reach Detector> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: MAC Kick: false
+[13:48:21] [Server thread/INFO]: §9Chat> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Chat> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Message> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Message> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Block Restore> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Block Restore> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Throw> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Throw> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Pet Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Pet Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Mount Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Mount Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Gadget Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Gadget Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Cosmetic Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Cosmetic Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Blood> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Blood> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Game Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Game Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Block Restore> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Block Restore> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Block Restore> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Block Restore> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Condition Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Condition Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Fire> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Fire> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9EventModule> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9EventModule> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Compass Addon> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Compass Addon> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Soup Addon> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Soup Addon> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Team Armor Addon> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Team Armor Addon> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Notification Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Notification Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Energy> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Energy> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Item Factory> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Item Factory> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Movement> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Movement> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Skill Factory> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Skill Factory> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Class Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Class Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Class Shop Manager> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Class Shop Manager> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Memory Fix> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Memory Fix> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: §9Custom Tag Fix> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Custom Tag Fix> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Added hook: Mineplex Hook [Latest].
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Added hook: Mineplex Hook [Latest].
+[13:48:21] [Server thread/INFO]: [NoCheatPlus] Added hook: Mineplex Hook [Latest].
+[13:48:21] [Server thread/INFO]: §9Tablist Fix> §7Initializing...
+[13:48:21] [Server thread/INFO]: §9Tablist Fix> §7Enabled in 0.0 Seconds.
+[13:48:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:48:21] [Server thread/INFO]: Done (0.876s)! For help, type "help" or "?"
+[13:48:22] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[13:48:22] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[13:48:22] [Server thread/INFO]: ----------Champions Modules set to false
+[13:48:22] [Server thread/INFO]: C:\Users\Admin\Downloads\Mineplex\Mineplex Arcade Test\Mineplex Arcade\maps\Survival Games -=-=-=-=-=
+[13:48:22] [Server thread/INFO]: Searching Maps in: maps\Survival Games
+[13:48:22] [Server thread/INFO]: Found Map: .DS_S
+[13:48:22] [Server thread/INFO]: Found Map: SG_KokoshiIslands
+[13:48:22] [Server thread/INFO]: Found Map: SG_ShatteredKingdom
+[13:48:22] [Server thread/INFO]: Found Map: SurvivalGames_Aztec Island
+[13:48:22] [Server thread/INFO]: Found Map: SurvivalGames_Fallout
+[13:48:22] [Server thread/INFO]: Found Map: SurvivalGames_RivertonCastle
+[13:48:22] [Server thread/INFO]: ]==[TIMING]==[ArcadeManager LoadFiles took 2ms
+[13:48:22] [Server thread/INFO]: Loading Survival Games...
+[13:48:22] [Server thread/INFO]: ]==[TIMING]==[DisplayNext took 61ms
+[13:48:22] [Server thread/INFO]: ]==[TIMING]==[registerEvents took 2ms
+[13:48:22] [Craft Scheduler Thread - 0/INFO]: ]==[TIMING]==[UnzipWorld creating folders took 1ms
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: java.io.FileNotFoundException: maps\Survival Games\.DS_S.zip (The system cannot find the file specified)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at java.io.FileInputStream.open0(Native Method)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at java.io.FileInputStream.open(Unknown Source)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at java.io.FileInputStream.<init>(Unknown Source)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at java.io.FileInputStream.<init>(Unknown Source)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at mineplex.core.common.util.ZipUtil.UnzipToDirectory(ZipUtil.java:167)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at nautilus.game.arcade.world.WorldData.UnzipWorld(WorldData.java:179)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at nautilus.game.arcade.world.WorldData$1.run(WorldData.java:80)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_7_R4.scheduler.CraftTask.run(CraftTask.java:71)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at org.bukkit.craftbukkit.v1_7_R4.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:53)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[13:48:22] [Craft Scheduler Thread - 0/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[13:48:22] [Craft Scheduler Thread - 0/INFO]: ]==[TIMING]==[UnzipWorld UnzipToDirectory took 2ms
+[13:48:22] [Server thread/INFO]: Loading world 'Game245_Survival Games_.DS_S'
+[13:48:22] [Server thread/INFO]: Loaded world with dimension : 2
+[13:48:22] [Server thread/INFO]: -------- World Settings For [Game245_Survival Games_.DS_S] --------
+[13:48:22] [Server thread/INFO]: View Distance: 10
+[13:48:22] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:48:22] [Server thread/INFO]: Clear tick list: false
+[13:48:22] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:48:22] [Server thread/INFO]: Anti X-Ray: false
+[13:48:22] [Server thread/INFO]: 	Engine Mode: 1
+[13:48:22] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:48:22] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:48:22] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:48:22] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:48:22] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:48:22] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:48:22] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:48:22] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:48:22] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:48:22] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:48:22] [Server thread/INFO]: Mob Spawn Range: 4
+[13:48:22] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:48:22] [Server thread/INFO]: Alternative Hopper Ticking: false
+[13:48:22] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:48:22] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:48:22] [Server thread/INFO]: Max TNT Explosions: 100
+[13:48:22] [Server thread/INFO]: Random Lighting Updates: false
+[13:48:22] [Server thread/INFO]: Sending up to 5 chunks per packet
+[13:48:22] [Server thread/INFO]: Structure Info Saving: true
+[13:48:22] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:48:22] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:48:22] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:48:22] [Server thread/INFO]: Max Entity Collisions: 8
+[13:48:22] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:48:22] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:48:22] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:48:23] [Server thread/INFO]: Created world with dimension : 2
+[13:48:23] [Server thread/INFO]: Setting item merge radius for game to 0.0
+[13:48:23] [Server thread/INFO]: ]==[TIMING]==[WorldData loading world. took 134ms
+[13:48:23] [Server thread/WARN]: java.io.FileNotFoundException: Game245_Survival Games_.DS_S\WorldConfig.dat (The system cannot find the file specified)
+[13:48:23] [Server thread/WARN]: 	at java.io.FileInputStream.open0(Native Method)
+[13:48:23] [Server thread/WARN]: 	at java.io.FileInputStream.open(Unknown Source)
+[13:48:23] [Server thread/WARN]: 	at java.io.FileInputStream.<init>(Unknown Source)
+[13:48:23] [Server thread/WARN]: 	at java.io.FileInputStream.<init>(Unknown Source)
+[13:48:23] [Server thread/WARN]: 	at nautilus.game.arcade.world.WorldData.LoadWorldConfig(WorldData.java:190)
+[13:48:23] [Server thread/WARN]: 	at nautilus.game.arcade.world.WorldData$1$1.run(WorldData.java:98)
+[13:48:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R4.scheduler.CraftTask.run(CraftTask.java:71)
+[13:48:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R4.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350)
+[13:48:23] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:641)
+[13:48:23] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275)
+[13:48:23] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584)
+[13:48:23] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490)
+[13:48:23] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628)
+[13:48:23] [Server thread/WARN]: Line: null
+[13:48:23] [Server thread/INFO]: ]==[TIMING]==[WorldData loading WorldConfig. took 1ms
+[13:48:53] [Server thread/INFO]: Game Load Expired.
+[13:48:53] [Server thread/INFO]: MAC Strict: true
+[13:48:53] [Server thread/INFO]: Survival Games state set to Dead
+[13:48:53] [Server thread/INFO]: World Player Count [0]
+[13:48:53] [Server thread/INFO]: ]==[TIMING]==[GameCreationManager - Uninit World - Survival Games took 29ms
+[13:48:53] [Server thread/INFO]: ]==[TIMING]==[GameCreationManager - Attempting Removal - Survival Games took 30ms
+[13:48:54] [Server thread/INFO]: ----------Champions Modules are still false
+[13:48:54] [Server thread/INFO]: C:\Users\Admin\Downloads\Mineplex\Mineplex Arcade Test\Mineplex Arcade\maps\Survival Games -=-=-=-=-=
+[13:48:54] [Server thread/INFO]: Searching Maps in: maps\Survival Games
+[13:48:54] [Server thread/INFO]: Found Map: .DS_S
+[13:48:54] [Server thread/INFO]: Found Map: SG_KokoshiIslands
+[13:48:54] [Server thread/INFO]: Found Map: SG_ShatteredKingdom
+[13:48:54] [Server thread/INFO]: Found Map: SurvivalGames_Aztec Island
+[13:48:54] [Server thread/INFO]: Found Map: SurvivalGames_Fallout
+[13:48:54] [Server thread/INFO]: Found Map: SurvivalGames_RivertonCastle
+[13:48:54] [Server thread/INFO]: ]==[TIMING]==[ArcadeManager LoadFiles took 1ms
+[13:48:54] [Server thread/INFO]: Loading Survival Games...
+[13:48:54] [Server thread/INFO]: ]==[TIMING]==[DisplayNext took 44ms
+[13:48:54] [Server thread/INFO]: ]==[TIMING]==[registerEvents took 0ms
+[13:48:54] [Craft Scheduler Thread - 0/INFO]: ]==[TIMING]==[UnzipWorld creating folders took 1ms
+[13:48:54] [Craft Scheduler Thread - 0/INFO]: ]==[TIMING]==[UnzipWorld UnzipToDirectory took 188ms
+[13:48:54] [Server thread/INFO]: Loading world 'Game246_Survival Games_SG_ShatteredKingdom'
+[13:48:54] [Server thread/INFO]: Loaded world with dimension : 2
+[13:48:54] [Server thread/INFO]: -------- World Settings For [Game246_Survival Games_SG_ShatteredKingdom] --------
+[13:48:54] [Server thread/INFO]: View Distance: 10
+[13:48:54] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:48:54] [Server thread/INFO]: Clear tick list: false
+[13:48:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:48:54] [Server thread/INFO]: Anti X-Ray: false
+[13:48:54] [Server thread/INFO]: 	Engine Mode: 1
+[13:48:54] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:48:54] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:48:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:48:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:48:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:48:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:48:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:48:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:48:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:48:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:48:54] [Server thread/INFO]: Mob Spawn Range: 4
+[13:48:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:48:54] [Server thread/INFO]: Alternative Hopper Ticking: false
+[13:48:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:48:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:48:54] [Server thread/INFO]: Max TNT Explosions: 100
+[13:48:54] [Server thread/INFO]: Random Lighting Updates: false
+[13:48:54] [Server thread/INFO]: Sending up to 5 chunks per packet
+[13:48:54] [Server thread/INFO]: Structure Info Saving: true
+[13:48:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:48:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:48:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:48:54] [Server thread/INFO]: Max Entity Collisions: 8
+[13:48:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:48:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:48:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:48:54] [Server thread/INFO]: Created world with dimension : 2
+[13:48:54] [Server thread/INFO]: Setting item merge radius for game to 0.0
+[13:48:54] [Server thread/INFO]: ]==[TIMING]==[WorldData loading world. took 16ms
+[13:48:54] [Server thread/INFO]: ]==[TIMING]==[WorldData loading WorldConfig. took 2ms
+[13:48:55] [Server thread/INFO]: Created Team: Green
+[13:48:55] [Server thread/INFO]: Map Chest Locations: 631
+[13:48:55] [Server thread/INFO]: Enchanting Tables: 5
+[13:48:55] [Server thread/INFO]: Crafting Benches: 10
+[13:48:55] [Server thread/INFO]: Chests: 250
+[13:48:55] [Server thread/INFO]: MAC Strict: true
+[13:48:55] [Server thread/INFO]: Creating Scoreboard Teams.
+[13:48:55] [Server thread/INFO]: Scoreboard Team: PLAYERS
+[13:48:55] [Server thread/INFO]: Survival Games state set to Recruit
+[13:49:23] [Server thread/INFO]: /127.0.0.1:59047 lost connection: If you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+[13:53:01] [User Authenticator #1/ERROR]: Could not pass event AsyncPlayerPreLoginEvent to Punish v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:496) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadPlayerLookupUUID.fireLoginEvents(ThreadPlayerLookupUUID.java:79) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadPlayerLookupUUID.run(ThreadPlayerLookupUUID.java:32) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException: Name is null
+	at java.lang.Enum.valueOf(Unknown Source) ~[?:1.8.0_131]
+	at punish.Category.valueOf(Category.java:1) ~[?:?]
+	at punish.Punish.LoadCilent(Punish.java:116) ~[?:?]
+	at punish.Punish.PlayerLogin(Punish.java:180) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 5 more
+[13:53:01] [User Authenticator #1/INFO]: UUID of player Infinityy_PVP is f9dfd5e2-af26-4bef-9a72-f8bdc1f7f178
+[13:53:01] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerList.c(PlayerList.java:265) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerList.a(PlayerList.java:152) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.LoginListener.c(LoginListener.java:119) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.LoginListener.a(LoginListener.java:44) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:189) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at nautilus.game.arcade.ArcadeManager.AdminOP(ArcadeManager.java:719) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 14 more
+[13:53:01] [Server thread/INFO]: Infinityy_PVP[/127.0.0.1:59127] logged in with entity id 30 at ([world] -0.5155540343464162, 104.0, -2.199605878245917)
+[13:53:09] [Server thread/INFO]: Infinityy_PVP issued server command: /forcestart
+[13:53:11] [Server thread/INFO]: Infinityy_PVP issued server command: /help
+[13:53:11] [Server thread/INFO]: Infinityy_PVP issued server command: /pl
+[13:53:24] [Server thread/INFO]: CONSOLE: Opped Infinityy_PVP[m
+[13:53:28] [Server thread/INFO]: Infinityy_PVP issued server command: /forcestart
+[13:53:30] [Server thread/INFO]: Infinityy_PVP issued server command: /start
+[13:53:33] [Server thread/INFO]: Infinityy_PVP issued server command: /gamemode
+[13:53:35] [Server thread/INFO]: Infinityy_PVP issued server command: /gamestart
+[13:53:36] [Server thread/INFO]: Infinityy_PVP issued server command: /pl
+[13:53:38] [Server thread/INFO]: Infinityy_PVP issued server command: /gamemode c
+[13:53:38] [Server thread/INFO]: Infinityy_PVP: Set own game mode to CREATIVE mode[m
+[13:53:40] [Server thread/INFO]: Infinityy_PVP issued server command: /arcade
+[13:53:54] [Server thread/INFO]: Infinityy_PVP issued server command: /arcade
+[13:54:00] [Server thread/ERROR]: Could not pass event PlayerInteractEntityEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1174) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at org.bukkit.craftbukkit.v1_7_R4.entity.CraftHumanEntity.openInventory(CraftHumanEntity.java:185) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:222) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitInteract(GamePlayerManager.java:273) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 13 more
+[13:54:01] [Server thread/ERROR]: Could not pass event PlayerInteractEntityEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1174) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:210) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitInteract(GamePlayerManager.java:273) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 13 more
+[13:54:01] [Server thread/ERROR]: Could not pass event PlayerInteractEntityEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1174) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:210) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitInteract(GamePlayerManager.java:273) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 13 more
+[13:54:01] [Server thread/ERROR]: Could not pass event PlayerInteractEntityEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1174) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:210) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitInteract(GamePlayerManager.java:273) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 13 more
+[13:54:02] [Server thread/ERROR]: Could not pass event PlayerInteractEntityEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1174) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:210) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitInteract(GamePlayerManager.java:273) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 13 more
+[13:54:02] [Server thread/ERROR]: Could not pass event PlayerInteractEntityEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1174) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:210) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitInteract(GamePlayerManager.java:273) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 13 more
+[13:54:03] [Server thread/ERROR]: Could not pass event PlayerInteractEntityEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1174) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:210) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitInteract(GamePlayerManager.java:273) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 13 more
+[13:54:04] [Server thread/ERROR]: Could not pass event CustomDamageEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.minecraft.game.core.damage.DamageManager.NewDamageEvent(DamageManager.java:172) [Arcade.jar:?]
+	at mineplex.minecraft.game.core.damage.DamageManager.StartDamageEvent(DamageManager.java:116) [Arcade.jar:?]
+	at sun.reflect.GeneratedMethodAccessor139.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.callEvent(CraftEventFactory.java:108) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:554) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:467) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:586) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityLiving.d(EntityLiving.java:1042) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityLiving.damageEntity(EntityLiving.java:686) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityMonster.damageEntity(EntityMonster.java:48) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityZombie.damageEntity(EntityZombie.java:164) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityHuman.attack(EntityHuman.java:950) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1208) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:210) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitDamage(GamePlayerManager.java:306) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor154.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 31 more
+[13:54:04] [Server thread/ERROR]: Could not pass event CustomDamageEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.minecraft.game.core.damage.DamageManager.NewDamageEvent(DamageManager.java:172) [Arcade.jar:?]
+	at mineplex.minecraft.game.core.damage.DamageManager.StartDamageEvent(DamageManager.java:116) [Arcade.jar:?]
+	at sun.reflect.GeneratedMethodAccessor139.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.callEvent(CraftEventFactory.java:108) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:554) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:467) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:586) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityLiving.d(EntityLiving.java:1042) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityLiving.damageEntity(EntityLiving.java:686) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityMonster.damageEntity(EntityMonster.java:48) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityZombie.damageEntity(EntityZombie.java:164) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityHuman.attack(EntityHuman.java:950) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1208) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:210) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitDamage(GamePlayerManager.java:306) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor154.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 31 more
+[13:54:04] [Server thread/ERROR]: Could not pass event CustomDamageEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.minecraft.game.core.damage.DamageManager.NewDamageEvent(DamageManager.java:172) [Arcade.jar:?]
+	at mineplex.minecraft.game.core.damage.DamageManager.StartDamageEvent(DamageManager.java:116) [Arcade.jar:?]
+	at sun.reflect.GeneratedMethodAccessor139.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.callEvent(CraftEventFactory.java:108) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.callEntityDamageEvent(CraftEventFactory.java:554) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.handleEntityDamageEvent(CraftEventFactory.java:467) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.handleLivingEntityDamageEvent(CraftEventFactory.java:586) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityLiving.d(EntityLiving.java:1042) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityLiving.damageEntity(EntityLiving.java:686) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityMonster.damageEntity(EntityMonster.java:48) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityZombie.damageEntity(EntityZombie.java:164) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.EntityHuman.attack(EntityHuman.java:950) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:1208) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PacketPlayInUseEntity.a(PacketPlayInUseEntity.java:37) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at mineplex.core.packethandler.PacketPlayUseEntity.handle(PacketPlayUseEntity.java:30) [Arcade.jar:?]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:186) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.openPageForPlayer(ShopBase.java:210) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitClick(GamePlayerManager.java:336) ~[?:?]
+	at nautilus.game.arcade.managers.GamePlayerManager.KitDamage(GamePlayerManager.java:306) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor154.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 31 more
+[13:54:17] [Server thread/INFO]: Infinityy_PVP lost connection: Disconnected
+[13:54:17] [Server thread/ERROR]: Could not pass event InventoryCloseEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.craftbukkit.v1_7_R4.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:848) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerList.disconnect(PlayerList.java:318) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:742) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:77) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.onInventoryClose(ShopBase.java:148) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 12 more
+[13:54:17] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerList.disconnect(PlayerList.java:321) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerConnection.a(PlayerConnection.java:742) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:77) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at mineplex.core.shop.ShopBase.onPlayerQuit(ShopBase.java:194) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_131]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 11 more
+[13:54:17] [Server thread/INFO]: Quit> Infinityy_PVP

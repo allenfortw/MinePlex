@@ -1,0 +1,368 @@
+[13:35:36] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[13:35:36] [Server thread/INFO]: Loading properties
+[13:35:36] [Server thread/INFO]: Default game type: SURVIVAL
+[13:35:36] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-1.7.9-R0.2-205-gb748d57 (MC: 1.7.10) (Implementing API version 1.7.10-R0.1-SNAPSHOT)
+[13:35:36] [Server thread/INFO]: Unable to find file banned-players.json, creating it.
+[13:35:36] [Server thread/INFO]: Unable to find file banned-ips.json, creating it.
+[13:35:36] [Server thread/INFO]: Unable to find file ops.json, creating it.
+[13:35:36] [Server thread/INFO]: Unable to find file whitelist.json, creating it.
+[13:35:36] [Server thread/INFO]: Debug logging is disabled
+[13:35:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:35:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:35:36] [Server thread/INFO]: Generating keypair
+[13:35:37] [Server thread/INFO]: Starting Minecraft server on *:25566
+[13:35:37] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:35:37] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.12.0-SNAPSHOT-sMD5NET-b793
+[13:35:37] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[13:35:37] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[13:35:37] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.7.10
+[13:35:37] [Server thread/INFO]: [Arcade] Loading Arcade v0.1
+[13:35:37] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:35:37] [Server thread/INFO]: Preparing level "world"
+[13:35:37] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:35:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:35:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:35:37] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:35:37] [Server thread/INFO]: Clear tick list: false
+[13:35:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:35:37] [Server thread/INFO]: View Distance: 10
+[13:35:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:35:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:35:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:35:37] [Server thread/INFO]: Anti X-Ray: true
+[13:35:37] [Server thread/INFO]: 	Engine Mode: 1
+[13:35:37] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:35:37] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:35:37] [Server thread/INFO]: Mob Spawn Range: 4
+[13:35:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:35:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:35:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:35:37] [Server thread/INFO]: Alternative Hopper Ticking: false
+[13:35:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:35:37] [Server thread/INFO]: Random Lighting Updates: false
+[13:35:37] [Server thread/INFO]: Structure Info Saving: true
+[13:35:37] [Server thread/INFO]: Sending up to 5 chunks per packet
+[13:35:37] [Server thread/INFO]: Max Entity Collisions: 8
+[13:35:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:35:37] [Server thread/INFO]: Max TNT Explosions: 100
+[13:35:37] [Server thread/INFO]: ---- Migration of old nether folder required ----
+[13:35:37] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your nether folder to a new location in order to operate correctly.
+[13:35:37] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[13:35:37] [Server thread/INFO]: Attempting to move world/DIM-1 to world_nether/DIM-1...
+[13:35:37] [Server thread/INFO]: Success! To restore nether in the future, simply move world_nether/DIM-1 to world/DIM-1
+[13:35:37] [Server thread/INFO]: ---- Migration of old nether folder complete ----
+[13:35:37] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:35:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:35:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:35:37] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:35:37] [Server thread/INFO]: Clear tick list: false
+[13:35:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:35:37] [Server thread/INFO]: View Distance: 10
+[13:35:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:35:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:35:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:35:37] [Server thread/INFO]: Anti X-Ray: true
+[13:35:37] [Server thread/INFO]: 	Engine Mode: 1
+[13:35:37] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:35:37] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:35:37] [Server thread/INFO]: Mob Spawn Range: 4
+[13:35:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:35:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:35:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:35:37] [Server thread/INFO]: Alternative Hopper Ticking: false
+[13:35:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:35:37] [Server thread/INFO]: Random Lighting Updates: false
+[13:35:37] [Server thread/INFO]: Structure Info Saving: true
+[13:35:37] [Server thread/INFO]: Sending up to 5 chunks per packet
+[13:35:37] [Server thread/INFO]: Max Entity Collisions: 8
+[13:35:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:35:37] [Server thread/INFO]: Max TNT Explosions: 100
+[13:35:37] [Server thread/INFO]: ---- Migration of old the_end folder required ----
+[13:35:37] [Server thread/INFO]: Unfortunately due to the way that Minecraft implemented multiworld support in 1.6, Bukkit requires that you move your the_end folder to a new location in order to operate correctly.
+[13:35:37] [Server thread/INFO]: We will move this folder for you, but it will mean that you need to move it back should you wish to stop using Bukkit in the future.
+[13:35:37] [Server thread/INFO]: Attempting to move world/DIM1 to world_the_end/DIM1...
+[13:35:37] [Server thread/INFO]: Success! To restore the_end in the future, simply move world_the_end/DIM1 to world/DIM1
+[13:35:37] [Server thread/INFO]: ---- Migration of old the_end folder complete ----
+[13:35:37] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:35:37] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:35:37] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:35:37] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:35:37] [Server thread/INFO]: Clear tick list: false
+[13:35:37] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:35:37] [Server thread/INFO]: View Distance: 10
+[13:35:37] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:35:37] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:35:37] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:35:37] [Server thread/INFO]: Anti X-Ray: true
+[13:35:37] [Server thread/INFO]: 	Engine Mode: 1
+[13:35:37] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:35:37] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:35:37] [Server thread/INFO]: Mob Spawn Range: 4
+[13:35:37] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:35:37] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:35:37] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:35:37] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:35:37] [Server thread/INFO]: Alternative Hopper Ticking: false
+[13:35:37] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:35:37] [Server thread/INFO]: Random Lighting Updates: false
+[13:35:37] [Server thread/INFO]: Structure Info Saving: true
+[13:35:37] [Server thread/INFO]: Sending up to 5 chunks per packet
+[13:35:37] [Server thread/INFO]: Max Entity Collisions: 8
+[13:35:37] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:35:37] [Server thread/INFO]: Max TNT Explosions: 100
+[13:35:37] [Server thread/INFO]: Preparing start region for level 0 (Seed: 0)
+[13:35:38] [Server thread/INFO]: Preparing start region for level 1 (Seed: 0)
+[13:35:39] [Server thread/INFO]: Preparing spawn area: 8%
+[13:35:40] [Server thread/INFO]: Preparing spawn area: 16%
+[13:35:41] [Server thread/INFO]: Preparing spawn area: 36%
+[13:35:42] [Server thread/INFO]: Preparing spawn area: 47%
+[13:35:43] [Server thread/INFO]: Preparing spawn area: 62%
+[13:35:44] [Server thread/INFO]: Preparing spawn area: 90%
+[13:35:44] [Server thread/INFO]: Preparing start region for level 2 (Seed: 0)
+[13:35:45] [Server thread/INFO]: Preparing spawn area: 69%
+[13:35:46] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.12.0-SNAPSHOT-sMD5NET-b793
+[13:35:46] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.7.10 / CB3100
+[13:35:46] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[13:35:46] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[13:35:46] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[13:35:46] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[13:35:46] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[13:35:46] [Server thread/INFO]: [NoCheatPlus] Version 3.12.0-SNAPSHOT-sMD5NET-b793 is enabled.
+[13:35:46] [Server thread/INFO]: [Arcade] Enabling Arcade v0.1
+[13:35:46] [Server thread/INFO]: §9Client Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Client Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9ItemStack Factory> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9ItemStack Factory> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Recharge> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Recharge> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Visibility Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Visibility Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Give Factory> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Give Factory> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Server Configuration> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Server Configuration> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Preferences> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Preferences> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Creature> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Creature> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Leaderboard Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Leaderboard Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Teleport> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Teleport> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9PacketHandler> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9PacketHandler> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Disguise Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Disguise Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Combat> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Combat> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Damage Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Damage Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9AntiHack> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9AntiHack> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Fly Detector> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Fly Detector> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Idle Detector> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Idle Detector> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Speed Detector> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Speed Detector> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Reach Detector> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Reach Detector> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: MAC Kick: false
+[13:35:46] [Server thread/INFO]: §9Chat> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Chat> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Message> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Message> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Block Restore> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Block Restore> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Throw> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Throw> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Pet Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Pet Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Mount Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Mount Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Gadget Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Gadget Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Cosmetic Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Cosmetic Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Blood> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Blood> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Game Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Game Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Block Restore> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Block Restore> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Block Restore> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Block Restore> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Condition Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Condition Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Fire> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Fire> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9EventModule> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9EventModule> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Compass Addon> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Compass Addon> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Soup Addon> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Soup Addon> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Team Armor Addon> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Team Armor Addon> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Notification Manager> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Notification Manager> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Energy> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Energy> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Item Factory> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Item Factory> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Movement> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Movement> §7Enabled in 0.0 Seconds.
+[13:35:46] [Server thread/INFO]: §9Skill Factory> §7Initializing...
+[13:35:46] [Server thread/INFO]: §9Skill Factory> §7Enabled in 0.0 Seconds.
+[13:35:47] [Server thread/INFO]: §9Class Manager> §7Initializing...
+[13:35:47] [Server thread/INFO]: §9Class Manager> §7Enabled in 0.0 Seconds.
+[13:35:47] [Server thread/INFO]: §9Class Shop Manager> §7Initializing...
+[13:35:47] [Server thread/INFO]: §9Class Shop Manager> §7Enabled in 0.0 Seconds.
+[13:35:47] [Server thread/INFO]: §9Memory Fix> §7Initializing...
+[13:35:47] [Server thread/INFO]: §9Memory Fix> §7Enabled in 0.0 Seconds.
+[13:35:47] [Server thread/INFO]: §9Custom Tag Fix> §7Initializing...
+[13:35:47] [Server thread/INFO]: §9Custom Tag Fix> §7Enabled in 0.0 Seconds.
+[13:35:47] [Server thread/INFO]: [NoCheatPlus] Added hook: Mineplex Hook [Latest].
+[13:35:47] [Server thread/INFO]: [NoCheatPlus] Added hook: Mineplex Hook [Latest].
+[13:35:47] [Server thread/INFO]: [NoCheatPlus] Added hook: Mineplex Hook [Latest].
+[13:35:47] [Server thread/INFO]: §9Tablist Fix> §7Initializing...
+[13:35:47] [Server thread/INFO]: §9Tablist Fix> §7Enabled in 0.0 Seconds.
+[13:35:47] [Server thread/INFO]: Done (9.575s)! For help, type "help" or "?"
+[13:35:47] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[13:35:47] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[13:35:47] [Server thread/INFO]: ----------Champions Modules set to false
+[13:35:47] [Server thread/INFO]: /Users/Reuben/Documents/Server/Test Server/Mineplex Arcade/maps/Survival Games -=-=-=-=-=
+[13:35:47] [Server thread/INFO]: Searching Maps in: maps/Survival Games
+[13:35:47] [Server thread/INFO]: Found Map: .DS_S
+[13:35:47] [Server thread/INFO]: Found Map: SG_KokoshiIslands
+[13:35:47] [Server thread/INFO]: Found Map: SG_ShatteredKingdom
+[13:35:47] [Server thread/INFO]: Found Map: SurvivalGames_Aztec Island
+[13:35:47] [Server thread/INFO]: Found Map: SurvivalGames_Fallout
+[13:35:47] [Server thread/INFO]: Found Map: SurvivalGames_RivertonCastle
+[13:35:47] [Server thread/INFO]: ]==[TIMING]==[ArcadeManager LoadFiles took 2ms
+[13:35:47] [Server thread/INFO]: Loading Survival Games...
+[13:35:48] [Server thread/INFO]: ]==[TIMING]==[DisplayNext took 110ms
+[13:35:48] [Server thread/INFO]: ]==[TIMING]==[registerEvents took 4ms
+[13:35:48] [Craft Scheduler Thread - 0/INFO]: ]==[TIMING]==[UnzipWorld creating folders took 0ms
+[13:35:48] [Craft Scheduler Thread - 0/INFO]: ]==[TIMING]==[UnzipWorld UnzipToDirectory took 374ms
+[13:35:48] [Server thread/INFO]: Loading world 'Game0_Survival Games_SurvivalGames_Aztec Island'
+[13:35:48] [Server thread/INFO]: Loaded world with dimension : 4
+[13:35:48] [Server thread/INFO]: -------- World Settings For [Game0_Survival Games_SurvivalGames_Aztec Island] --------
+[13:35:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:35:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:35:48] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[13:35:48] [Server thread/INFO]: Clear tick list: false
+[13:35:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:35:48] [Server thread/INFO]: View Distance: 10
+[13:35:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:35:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:35:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:35:48] [Server thread/INFO]: Anti X-Ray: true
+[13:35:48] [Server thread/INFO]: 	Engine Mode: 1
+[13:35:48] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[13:35:48] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[13:35:48] [Server thread/INFO]: Mob Spawn Range: 4
+[13:35:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:35:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:35:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:35:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:35:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:35:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:35:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:35:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:35:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:35:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:35:48] [Server thread/INFO]: Alternative Hopper Ticking: false
+[13:35:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:35:48] [Server thread/INFO]: Random Lighting Updates: false
+[13:35:48] [Server thread/INFO]: Structure Info Saving: true
+[13:35:48] [Server thread/INFO]: Sending up to 5 chunks per packet
+[13:35:48] [Server thread/INFO]: Max Entity Collisions: 8
+[13:35:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:35:48] [Server thread/INFO]: Max TNT Explosions: 100
+[13:35:48] [Server thread/INFO]: Created world with dimension : 4
+[13:35:48] [Server thread/INFO]: Setting item merge radius for game to 0.0
+[13:35:48] [Server thread/INFO]: ]==[TIMING]==[WorldData loading world. took 17ms
+[13:35:48] [Server thread/INFO]: ]==[TIMING]==[WorldData loading WorldConfig. took 3ms
+[13:35:49] [Server thread/INFO]: Created Team: Green
+[13:35:49] [Server thread/INFO]: Map Chest Locations: 861
+[13:35:49] [Server thread/INFO]: Enchanting Tables: 5
+[13:35:49] [Server thread/INFO]: Crafting Benches: 10
+[13:35:49] [Server thread/INFO]: Chests: 250
+[13:35:49] [Server thread/INFO]: MAC Strict: true
+[13:35:49] [Server thread/INFO]: Creating Scoreboard Teams.
+[13:35:49] [Server thread/INFO]: Scoreboard Team: PLAYERS
+[13:35:49] [Server thread/INFO]: Survival Games state set to Recruit
+[13:35:52] [User Authenticator #1/INFO]: UUID of player CH3T3R0 is 710bc23c-145c-4ba0-8b10-d3f1f47c7829
+[13:35:52] [Server thread/ERROR]: Could not pass event PlayerLoginEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerList.attemptLogin(PlayerList.java:400) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.LoginListener.c(LoginListener.java:98) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.LoginListener.a(LoginListener.java:44) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:189) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.ArithmeticException: / by zero
+	at nautilus.game.arcade.ArcadeManager.Login(ArcadeManager.java:724) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_65]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_65]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_65]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_65]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 13 more
+[13:35:52] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to Arcade v0.1
+org.bukkit.event.EventException
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:514) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:499) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerList.c(PlayerList.java:265) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.PlayerList.a(PlayerList.java:152) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.LoginListener.c(LoginListener.java:119) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.LoginListener.a(LoginListener.java:44) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.NetworkManager.a(NetworkManager.java:189) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ServerConnection.c(ServerConnection.java:81) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.v(MinecraftServer.java:734) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.DedicatedServer.v(DedicatedServer.java:275) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.u(MinecraftServer.java:584) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.MinecraftServer.run(MinecraftServer.java:490) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	at net.minecraft.server.v1_7_R4.ThreadServerApplication.run(SourceFile:628) [craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+Caused by: java.lang.NullPointerException
+	at nautilus.game.arcade.ArcadeManager.AdminOP(ArcadeManager.java:749) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_65]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_65]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_65]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_65]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:298) ~[craftbukkit.jar:git-Spigot-1.7.9-R0.2-205-gb748d57]
+	... 14 more
+[13:35:52] [Server thread/INFO]: CH3T3R0[/127.0.0.1:59154] logged in with entity id 59 at ([world] -3.2721085726918044, 104.0, 2.8478723373492834)
+[13:35:56] [Async Chat Thread - #0/INFO]: [0;32;1m[21mLEGEND [0;37;22mCH3T3R0 [0;37;1mHey[m
+[13:36:02] [Server thread/INFO]: CH3T3R0 issued server command: /prefs
