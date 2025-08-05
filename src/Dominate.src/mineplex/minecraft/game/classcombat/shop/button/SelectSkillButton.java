@@ -1,0 +1,25 @@
+package mineplex.minecraft.game.classcombat.shop.button;
+
+import mineplex.core.shop.item.IButton;
+import mineplex.minecraft.game.classcombat.Skill.ISkill;
+import mineplex.minecraft.game.classcombat.shop.page.SkillPage;
+import org.bukkit.entity.Player;
+
+public class SelectSkillButton
+  implements IButton
+{
+  private SkillPage _page;
+  private ISkill _skill;
+  
+  public SelectSkillButton(SkillPage page, ISkill skill)
+  {
+    this._page = page;
+    this._skill = skill;
+  }
+  
+
+  public void Clicked(Player player)
+  {
+    this._page.SelectSkill(player, this._skill);
+  }
+}
